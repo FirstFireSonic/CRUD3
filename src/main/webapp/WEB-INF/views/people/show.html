@@ -1,10 +1,33 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="en" xmlns:th="http://www.thymeleaf.org">
 <head>
     <meta charset="UTF-8">
-    <title>Title</title>
+    <title>Show Person</title>
 </head>
 <body>
-
+<hr/>
+<hr/>
+<br/>
+<p th:text="${'Name and age: ' + person.name + ', ' + person.age}">VALUE</p>
+<br/>
+<hr/>
+<br/>
+<p th:text="${'Index in db: ' + person.getId()}">VALUE</p>
+<br/>
+<hr/>
+<hr/>
+<br/>
+<form th:method="GET" th:action="@{/people/{id}/edit(id=${person.id})}">
+    <input type="submit" value="Edit"/>
+</form>
+<br/>
+<hr/>
+<br/>
+<form th:method="DELETE" th:action="@{/people/{id}(id=${person.id})}">
+    <input type="submit" value="Delete"/>
+</form>
+<br/>
+<hr/>
+<hr/>
 </body>
 </html>

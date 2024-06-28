@@ -78,3 +78,5 @@ w
 G.idea/sonarlint/issuestore/1/7/1758c217ba728ee13b67832d797a1b17d2453693,a\e\ae92fbbe1ea28cb3bf83ed35dba4001c17473298
 w
 G.idea/sonarlint/issuestore/e/7/e75c09c86840e03328051a3af4ed9e953de92500,1\4\14844db9d15697d24da91db53f5ff53c9f424a99
+c
+3src/main/java/my/crud/app/util/PersonValidator.java,4\d\4d90af7df5aa1e2c30e0a4b30b89cbc3483212fe
