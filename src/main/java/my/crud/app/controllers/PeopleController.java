@@ -23,6 +23,11 @@ public class PeopleController {
         this.personValidator = personValidator;
     }
 
+    @GetMapping("/")
+    public String rootRedirect() {
+        return "redirect:/people";
+    }
+
     @GetMapping
     public String index(Model model) {
         model.addAttribute("people", personDAO.index());
