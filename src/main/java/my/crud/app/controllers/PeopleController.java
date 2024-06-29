@@ -1,4 +1,4 @@
-package my.crud.app.controller;
+package my.crud.app.controllers;
 
 import jakarta.validation.Valid;
 import my.crud.app.dao.PersonDAO;
@@ -21,11 +21,6 @@ public class PeopleController {
     public PeopleController(PersonDAO personDAO, PersonValidator personValidator) {
         this.personDAO = personDAO;
         this.personValidator = personValidator;
-    }
-
-    @GetMapping("/")
-    public String rootRedirect() {
-        return "redirect:/people";
     }
 
     @GetMapping

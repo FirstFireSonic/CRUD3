@@ -19,10 +19,6 @@ _
 ,src/main/java/my/crud/app/models/Person.java,a\8\a8ab80a3d70e5cfc3cf094dcd593c0f1f7abf7df
 Z
 *src/main/java/my/crud/app/models/Book.java,8\b\8b796eaf4aba813f58216ffc2844d9d06700c10c
-j
-:src/main/java/my/crud/app/controller/PeopleController.java,b\c\bcf0240f59f1d30b971f580c9fd58a88065ddf49
-h
-8src/main/java/my/crud/app/controller/BookController.java,d\8\d841699a5031f3097893c3f2d0d9e2bbc5b94c66
 \
 ,src/main/java/my/crud/app/dao/PersonDAO.java,e\7\e75c09c86840e03328051a3af4ed9e953de92500
 Z
@@ -50,14 +46,8 @@ Q.idea/sonarlint/securityhotspotstore/8/b/8b796eaf4aba813f58216ffc2844d9d06700c1
 :
 
 .gitignore,a\5\a5cc2925ca8258af241be7e5b0381edf30266302
-Å
-Q.idea/sonarlint/securityhotspotstore/d/8/d841699a5031f3097893c3f2d0d9e2bbc5b94c66,d\c\dcc3bc70b97430cdc649fb691195a1ff536a0460
-Å
-Q.idea/sonarlint/securityhotspotstore/b/c/bcf0240f59f1d30b971f580c9fd58a88065ddf49,f\5\f58baf306032805ba47b1069be00c495b8954e54
 S
 #.idea/sonarlint/issuestore/index.pb,9\f\9fe84ebb15faf917b7def6236dba604453cc61e0
-w
-G.idea/sonarlint/issuestore/b/c/bcf0240f59f1d30b971f580c9fd58a88065ddf49,c\9\c97fd98f54a2b37c4cc294b90ba53075601a6485
 Å
 Q.idea/sonarlint/securityhotspotstore/3/1/3186a8d2649459826d34df616b88420fd64a7425,d\4\d4de1337562f2358f39234bf5e06bf065d7b1aaf
 ]
@@ -80,3 +70,21 @@ w
 G.idea/sonarlint/issuestore/e/7/e75c09c86840e03328051a3af4ed9e953de92500,1\4\14844db9d15697d24da91db53f5ff53c9f424a99
 c
 3src/main/java/my/crud/app/util/PersonValidator.java,4\d\4d90af7df5aa1e2c30e0a4b30b89cbc3483212fe
+i
+9src/main/java/my/crud/app/controllers/BookController.java,f\a\faf53b157c98a0ece52c1cbc4f73ad2793f27388
+k
+;src/main/java/my/crud/app/controllers/PeopleController.java,8\4\8447c8b05baaea21ae3836f0d2fa6c34c1dec73c
+i
+9src/main/java/my/crud/app/controllers/rootController.java,3\e\3e8ba5cbf7d70f20acbc02d17c956b9742453e37
+a
+1src/main/java/my/crud/app/util/BookValidator.java,9\5\9539af2e1cd8b57ccd7ad48348f8007221869291
+^
+.src/main/webapp/WEB-INF/views/books/index.html,c\1\c1440848bd18533ab1b8b1959636b6c9923c0099
+]
+-src/main/webapp/WEB-INF/views/books/edit.html,c\1\c153ac4d76c2a431c56a53cabaa70392d33c5453
+]
+-src/main/webapp/WEB-INF/views/books/show.html,c\d\cdfdb791522c475dff30da099baf085dc436fbce
+\
+,src/main/webapp/WEB-INF/views/books/new.html,9\9\992f1b8ec26494bd28bd403ec1ebe30337994c69
+i
+9src/main/java/my/crud/app/controllers/RootController.java,5\c\5cecb7ee653de721d9a4547101d072f49fde48f3

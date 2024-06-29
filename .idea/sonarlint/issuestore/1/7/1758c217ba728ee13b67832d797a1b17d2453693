@@ -1,0 +1,15 @@
+
+~	java:S125."<This block of commented-out lines of code should be removed.(ÎıÈ8ïµ€…†2J$746148aa-1e01-46af-915a-298a524f704f
+w
+java:S1128"4Remove this unused import 'my.crud.app.models.Book'.(ËÆ8ğµ€…†2J$211266b7-2667-4092-a033-2527070d7f29
+y
+java:S1128"6Remove this unused import 'my.crud.app.models.Person'.(ÏéÈÎ8ğµ€…†2J$71af8d17-22be-4990-83c6-419c0c5ac748
+˜
+java:S1128"PRemove this unused import 'org.springframework.jdbc.core.BeanPropertyRowMapper'.(ß©Å´ÿÿÿÿÿ8ğµ€…†2J$f5240349-f6a1-4ac2-9519-594398ad1e69
+s
+java:S1128
+"+Remove this unused import 'java.util.List'.(Õë±Äøÿÿÿÿ8ğµ€…†2J$454af38c-f0e7-4bdb-aa1c-aeecd5bcfde4
+w
+java:S1128"/Remove this unused import 'java.util.Optional'.(¨˜ëİüÿÿÿÿ8ñµ€…†2J$f2368741-91a9-45cf-8798-5c52a6835ba0
+x
+java:S1068"0Remove this unused "jdbcTemplate" private field.(êµ…ªøÿÿÿÿ8ñµ€…†2J$262c5dbd-5102-4b47-9b9b-ed07704df08c
